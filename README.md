@@ -51,7 +51,6 @@ Source: Author's computation
 </p>
 Source: López, 2022. [Fine-tuning mT5-based Transformer via CMA-ES for Sentiment Analysis](https://www.researchgate.net/figure/MT5-encoder-model-overview-with-additional-fully-connected-head_fig1_363234400)
 
-[Bread](kahoot.it)
 
 ## Evaluation and Conclusion
 
