@@ -23,7 +23,7 @@ NMT is a developing AI technology that uses deep learning to translate sentences
 <p align="left">
   <img src="encoders.png" alt="description" width="700" height="auto"/>
 </p>
-Adapted from [Localize](https://localizejs.com/articles/exploring-neural-machine-translation-nmt#:~:text=The%20Architecture%20of%20Neural%20Machine%20Translation%20(NMT),-An%20NMT%20computer&text=These%20neural%20networks%20translate%20entire,encoder%2Dattention%2Ddecoder%20model.)
+Adapted from [Localize](https://localizejs.com/articles/exploring-neural-machine-translation-nmt#:~:text=The%20Architecture%20of%20Neural%20Machine%20Translation%20(NMT),-An%20NMT%20computer&text=These%20neural%20networks%20translate%20entire,encoder%2Dattention%2Ddecoder%20model)
 
 ## Data Preprocessing
 
@@ -49,7 +49,7 @@ Source: Author's computation
 <p align="left">
   <img src="mt5.png" alt="description" width="600" height="auto"/>
 </p>
-_SOurce: López, 2022. [Fine-tuning mT5-based Transformer via CMA-ES for Sentiment Analysis.](https://www.researchgate.net/figure/MT5-encoder-model-overview-with-additional-fully-connected-head_fig1_363234400)_
+Source: López, 2022. [Fine-tuning mT5-based Transformer via CMA-ES for Sentiment Analysis](https://www.researchgate.net/figure/MT5-encoder-model-overview-with-additional-fully-connected-head_fig1_363234400)
 
 ## Evaluation and Conclusion
 
