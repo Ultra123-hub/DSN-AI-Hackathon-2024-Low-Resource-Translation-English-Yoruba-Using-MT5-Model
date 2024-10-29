@@ -45,11 +45,14 @@ _Source: Author's computation_
 
 On average, Yoruba sentences tend to be longer than English. Also, the distribution is slightly skewed to the right indicating that there are fewer longer sentences.
 
+
 <p align="left">
   <img src="sentence_length2.png" alt="description" width="700" height="auto"/>
 </p>
 
 _Source: Author's computation_
+
+On the test data however, the English texts appear to be longer compared to their corresponding Yoruba pairs.
 
 ## Model training
 
