@@ -87,7 +87,7 @@ print(f"Translated Text (Yoruba): {predictions_2[0]}")
 #### Translated text: Orúkọ mi ni Oyinda, mo ń kópa nínú ìdíje DSN pẹ̀lú Uthman, ọ̀kan lára àwọn akẹẹgbẹ́ mi.
 
 
-MT5 is available on [hugging face](https://huggingface.co/google/mt5-small)
+The MT5 model is readily available on [hugging face](https://huggingface.co/google/mt5-small)
 
 
 ## Other References
