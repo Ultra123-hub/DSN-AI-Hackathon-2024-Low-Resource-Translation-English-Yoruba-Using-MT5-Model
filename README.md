@@ -67,8 +67,27 @@ On the test data however, the English texts appear to be longer compared to thei
 
 ## Evaluation and Conclusion
 
+EDA shows that the train and validation datasets contained 76 and 45 sentence pairs respectively. This implied that moving on, the duplicate had to be removed.
 
-Bilingual Evaluation Understudy
+The translated text in the test set was evaluated using the Bilingual Evaluation Understudy (BLEU) score. And a BLUE score of 13 suggests that the translation is performing fairly well.
+
+The snippet below shows a sample of the translation.
+
+```python
+# Define the input text for translation (English sentence)
+input_text_2 = "My name is Oyinda, I am participating in the DSN hackathon with my teammate, Uthman."
+
+# Use the model to predict the translation (English to Yoruba)
+predictions_2 = model.predict([input_text_2])
+
+# Print the prediction
+print(f"Translated Text (Yoruba): {predictions_2[0]}")
+```
+
+###Translated text: Orúkọ mi ni Oyinda, mo ń kópa nínú ìdíje DSN pẹ̀lú Uthman, ọ̀kan lára àwọn akẹẹgbẹ́ mi.
+
+
+MT5 is available on [hugging face](https://huggingface.co/google/mt5-small)
 
 
 ## Other References
