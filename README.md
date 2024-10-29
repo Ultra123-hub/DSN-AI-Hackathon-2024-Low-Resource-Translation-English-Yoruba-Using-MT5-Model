@@ -24,21 +24,25 @@ NMT is a developing AI technology that uses deep learning to translate sentences
   <img src="encoders.png" alt="description" width="700" height="auto"/>
 </p>
 
+
 ## Data Preprocessing
 
 <p align="left">
   <img src="data_preprocess.png" alt="description" width="700" height="auto"/>
 </p>
+Source: Author's computation
 
 ## Exploratory Data Analysis
 
 <p align="left">
   <img src="sentence_length.png" alt="description" width="700" height="auto"/>
 </p>
+Source: Author's computation
 
 <p align="left">
   <img src="sentence_length2.png" alt="description" width="700" height="auto"/>
 </p>
+Source: Author's computation
 
 ## Model training
 
