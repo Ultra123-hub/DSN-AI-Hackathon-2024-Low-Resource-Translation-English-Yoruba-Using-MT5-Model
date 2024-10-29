@@ -24,7 +24,7 @@ NMT is a developing AI technology that uses deep learning to translate sentences
   <img src="encoders.png" alt="description" width="700" height="auto"/>
 </p>
 Adapted from 
-[Localize](bit.ly/3NKk9IM)
+[Localize](kahoot.it)
 
 [Bread](kahoot.it)
 
