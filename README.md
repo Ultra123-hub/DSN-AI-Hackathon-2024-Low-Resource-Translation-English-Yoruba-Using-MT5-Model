@@ -47,7 +47,7 @@ Source: Author's computation
 ## Model training
 
 <p align="left">
-  <img src="mt_input.png" alt="description" width="600" height="auto"/>
+  <img src="mt_input.jpg" alt="description" width="600" height="auto"/>
 </p>
 
 <p align="left">
