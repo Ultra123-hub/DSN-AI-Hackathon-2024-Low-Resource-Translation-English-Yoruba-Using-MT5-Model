@@ -65,3 +65,9 @@ _Source: Author's computation_
 
 
 Bilingual Evaluation Understudy
+
+
+## Other References
+
+1. [Comparing Facebook’s M2M to mT5 in low resources translation (English-Yoruba)](https://towardsdatascience.com/comparing-facebooks-m2m-to-mt5-in-low-resources-translation-english-yoruba-ef56624d2b75)
+2. [How to Train an mT5 Model for Translation With Simple Transformers](https://towardsdatascience.com/how-to-train-an-mt5-model-for-translation-with-simple-transformers-30ba5fa66c5f)
