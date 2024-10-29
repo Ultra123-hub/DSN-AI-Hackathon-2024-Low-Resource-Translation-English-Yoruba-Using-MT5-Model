@@ -32,6 +32,7 @@ Adapted from:
 <p align="left">
   <img src="data_preprocess.png" alt="description" width="700" height="auto"/>
 </p>
+
 _Source: Author's computation_
 
 ## Exploratory Data Analysis
@@ -39,12 +40,14 @@ _Source: Author's computation_
 <p align="left">
   <img src="sentence_length.png" alt="description" width="700" height="auto"/>
 </p>
+
 _Source: Author's computation_
 
 
 <p align="left">
   <img src="sentence_length2.png" alt="description" width="700" height="auto"/>
 </p>
+
 _Source: Author's computation_
 
 ## Model training
@@ -52,7 +55,8 @@ _Source: Author's computation_
 <p align="left">
   <img src="mt5.png" alt="description" width="600" height="auto"/>
 </p>
-_Source: López, 2022._ 
+
+*Source: López, 2022.*
 
 [Fine-tuning mT5-based Transformer via CMA-ES for Sentiment Analysis](https://www.researchgate.net/figure/MT5-encoder-model-overview-with-additional-fully-connected-head_fig1_363234400)
 
