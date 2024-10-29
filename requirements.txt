@@ -1,0 +1,15 @@
+logging
+os
+random
+torch
+numpy
+pandas
+simpletransformers.t5
+logging
+unicodedata
+matplotlib
+evaluate
+colorama
+sacrebleu
+mt5
+tqdm
