@@ -24,7 +24,7 @@ NMT is a developing AI technology that uses deep learning to translate sentences
   <img src="encoders.png" alt="description" width="700" height="auto"/>
 </p>
 Adapted from 
-[Localize](https://localizejs.com/articles/exploring-neural-machine-translation-nmt#:~:text=The%20Architecture%20of%20Neural%20Machine%20Translation%20(NMT),-An%20NMT%20computer&text=These%20neural%20networks%20translate%20entire,encoder%2Dattention%2Ddecoder%20model)
+[Localize](http://bit.ly/3NKk9IM)
 ## Data Preprocessing
 
 <p align="left">
